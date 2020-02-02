@@ -1,8 +1,8 @@
 {
   "name": "pure-js-app",
   "version": "1.0.0",
-  "description": "Pure Js App",
-  "main": "index.js",
+  "description": "Questions for me on pure js",
+  "main": "src/app.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
